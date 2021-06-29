@@ -1,4 +1,5 @@
-### Hello World 👋
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 I am a Machine learning/Data Science enthusiast from India
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
