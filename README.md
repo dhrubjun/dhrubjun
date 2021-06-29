@@ -1,8 +1,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Machine learning/Data Science enthusiast from India
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+
 <br>
 
 ## Connect with me
@@ -31,10 +30,10 @@ I am a Machine learning/Data Science enthusiast from India
 
 <br>
 <br>
+<br>
 
 
-
-## Blog posts
+## &#x270d; Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [All-time best IPL XI](https://medium.com/geekculture/all-time-best-ipl-xi-8a3c8272a3e?source=rss-6cb5b5a9e38b------2)
 - [Ridge and Lasso Regression :](https://medium.com/geekculture/ridge-and-lasso-regression-51705b608fb9?source=rss-6cb5b5a9e38b------2)
