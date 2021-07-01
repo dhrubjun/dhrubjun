@@ -34,6 +34,7 @@ I am a Machine learning/Data Science enthusiast from India
 
 ## &#x270d; Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Validation](https://dhrubjun.medium.com/cross-validation-6270341658ae?source=rss-6cb5b5a9e38b------2)
 - [All-time best IPL XI](https://medium.com/geekculture/all-time-best-ipl-xi-8a3c8272a3e?source=rss-6cb5b5a9e38b------2)
 - [Ridge and Lasso Regression :](https://medium.com/geekculture/ridge-and-lasso-regression-51705b608fb9?source=rss-6cb5b5a9e38b------2)
 - [R-squared statistic : basic intuition](https://medium.com/geekculture/r-squared-statistic-basic-intuition-c8620412b196?source=rss-6cb5b5a9e38b------2)
