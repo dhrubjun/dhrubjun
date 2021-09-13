@@ -35,6 +35,7 @@ I am a Machine learning/Data Science enthusiast from India
 
 ## &#x270d; Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Measures of variability and spread :](https://medium.com/nerd-for-tech/measures-of-variability-and-spread-3a2c11cb647d?source=rss-6cb5b5a9e38b------2)
 - [Cross-Validation](https://medium.com/nerd-for-tech/cross-validation-6270341658ae?source=rss-6cb5b5a9e38b------2)
 - [All-time best IPL XI](https://medium.com/geekculture/all-time-best-ipl-xi-8a3c8272a3e?source=rss-6cb5b5a9e38b------2)
 - [Ridge and Lasso Regression :](https://medium.com/geekculture/ridge-and-lasso-regression-51705b608fb9?source=rss-6cb5b5a9e38b------2)
