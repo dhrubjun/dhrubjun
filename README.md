@@ -35,9 +35,9 @@ I am a Machine learning/Data Science enthusiast from India
 
 ## &#x270d; Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sampling Distribution and Central limit theorem](https://medium.com/nerd-for-tech/sampling-distribution-and-central-limit-theorem-8da8e10c0ac3?source=rss-6cb5b5a9e38b------2)
 - [Continuous Probability Distribution](https://medium.com/nerd-for-tech/continuous-probability-distribution-4255933bb454?source=rss-6cb5b5a9e38b------2)
 - [Discrete Probability Distribution : Part 2](https://medium.com/nerd-for-tech/discrete-probability-distribution-part-2-ef007cb9cd29?source=rss-6cb5b5a9e38b------2)
 - [Discrete Probability Distribution : Part 1](https://medium.com/nerd-for-tech/discrete-probability-distribution-part-1-d8ee0fee2f57?source=rss-6cb5b5a9e38b------2)
 - [Measures of variability and spread :](https://medium.com/nerd-for-tech/measures-of-variability-and-spread-3a2c11cb647d?source=rss-6cb5b5a9e38b------2)
-- [Cross-Validation](https://medium.com/nerd-for-tech/cross-validation-6270341658ae?source=rss-6cb5b5a9e38b------2)
 <!-- BLOG-POST-LIST:END -->
